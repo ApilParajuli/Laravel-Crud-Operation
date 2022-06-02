@@ -1,7 +1,11 @@
+## Installation
 
-# Laravel Crud Application
+git clone https://github.com/ApilParajuli/Laravel-Crud-Operation.git
 
-To run the program type php artisan serve on the Terminal.
+cd quickstart
 
+composer install
 
+php artisan migrate
 
+php artisan serve
